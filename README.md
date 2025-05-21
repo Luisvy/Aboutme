@@ -1,5 +1,5 @@
-# 💫 About Me:
-No parezco desarrollador, pero SÍ lo soy jeje. Mi misión es proporcionar a una empresa todos los conocimientos aprendidos estos últimos años y mostrar mi creatividad. Además, ahora mismo estoy aprendiendo Angular, FastAPI y Django.
+# 💫 ¡Conóceme!:
+Aquí codificando siempre. Mi misión es proporcionar a una empresa todos los conocimientos aprendidos estos últimos años y mostrar mi creatividad. Además, ahora mismo estoy aprendiendo Angular, FastAPI y Django.
 
 
 ## 🌐 Socials:
